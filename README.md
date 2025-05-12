@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is a comprehensive analysis of **Retail Sales** and **Customer Demographics**, aimed at uncovering insights into customer purchasing behavior and sales trends. It is based on a dataset containing retail sales transactions along with detailed customer demographics, including age, gender, and purchasing history. The project was completed as part of a **Kaggle competition**, where the goal was to explore and model the dataset to generate actionable business insights.
+This project is a comprehensive analysis of **Retail Sales** and **Customer Demographics**, aimed at uncovering insights into customer purchasing behavior and sales trends. It is based on a dataset containing retail sales transactions along with detailed customer demographics, including age, gender, and purchasing history. The project was completed as part of a **Brainwave Matrix Solutions Internship**, where the goal was to explore and model the dataset to generate actionable business insights.
 
 ## Problem Statement
 
